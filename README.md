@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @peridoqia
+- 👀 I’m interested in anything and everything
+- 🌱 I am well-experienced in JavaScript, Nim, Lua, Python, HTML, CSS and more
